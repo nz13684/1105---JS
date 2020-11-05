@@ -1,2 +1,2 @@
-# 1105_webdesign-JS
+# 1105_WebDesign-JS
 1105前端網頁 - JavaScript
